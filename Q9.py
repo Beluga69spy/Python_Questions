@@ -1,3 +1,5 @@
+# Find all occurrences of a substring in a given string by ignoring the case
+
 def find(string, substring):
     string_lower = string.lower()
     substring_lower = substring.lower()
