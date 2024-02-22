@@ -1,3 +1,4 @@
+# Merge two tuples and remove duplicates.
 def tup(tuple1, tuple2):
 
   combined = set(tuple1) | set(tuple2)
